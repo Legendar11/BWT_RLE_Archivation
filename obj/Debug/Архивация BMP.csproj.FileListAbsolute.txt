@@ -1,0 +1,8 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\obj\Debug\Архивация_BMP.Frm.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\obj\Debug\Архивация_BMP.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\obj\Debug\Архивация BMP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\bin\Debug\Архивация BMP.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\bin\Debug\Архивация BMP.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\obj\Debug\Архивация BMP.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Архивация BMP\obj\Debug\Архивация BMP.pdb
